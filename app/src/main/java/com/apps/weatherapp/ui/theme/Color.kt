@@ -2,8 +2,8 @@ package com.apps.weatherapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Black40 = Color(0xFF000000)
-val BlackGrey40 = Color(0xFF474747)
+val Black40 = Color(0xFF141414)
+val BlackGrey40 = Color(0xFF222222)
 val White40 = Color(0xFFFFFFFF)
 val Blue40 = Color(0xFF1DA1F2)
 

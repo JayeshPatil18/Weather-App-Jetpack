@@ -68,6 +68,7 @@ fun WeatherPage(viewModel: WeatherViewModel) {
             .padding(10.dp),
         horizontalAlignment = Alignment.CenterHorizontally
     ){
+        Spacer(modifier = Modifier.height(30.dp))
         Row (
             modifier = Modifier
                 .fillMaxWidth()
@@ -131,7 +132,9 @@ fun WeatherPage(viewModel: WeatherViewModel) {
             is NetworkResponse.Success -> {
                 WeatherDetails(data = result.data)
             }
-            null -> {}
+            null -> {
+                Text(text = "Search", style = TextStyle(color = White40), fontSize = 20.sp, modifier = Modifier.padding(top = 200.dp), textAlign = TextAlign.Center)
+            }
         }
     }
 }
