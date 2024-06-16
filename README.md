@@ -34,13 +34,13 @@ Welcome to **Weather App - Jetpack Compose**, a modern Android application built
 - **WeatherAPI.com**: Provides weather data including current weather, forecasts, and more.
 
 
-## Running the Jetpack Compose Android App
+## Running Android App
 
 To run the Jetpack Compose Android app, follow these steps:
 
 1. **Clone the Project:**
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/JayeshPatil18/Weather-App-Jetpack.git
 
 
 2. **Install Dependencies**    
