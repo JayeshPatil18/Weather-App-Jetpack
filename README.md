@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Weather App - Jetpack Compose 🌦️</h1>
+  <h1>Weather App🌦️ - Jetpack Compose</h1>
   <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=jetpack-compose&logoColor=white" style="margin-bottom: 10px;">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-left: 10px;">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-left: 10px;">
