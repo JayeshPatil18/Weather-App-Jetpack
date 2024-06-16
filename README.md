@@ -16,7 +16,7 @@ Welcome to **Weather App - Jetpack Compose**, a modern Android application built
 
 *Available Soon on Play Store.*
 
-![Available](https://github.com/JayeshPatil18/Weather-App-Jetpack/blob/master/weather-app.jpg)
+![Available](https://github.com/JayeshPatil18/Weather-App-Jetpack/blob/master/weather-app.jpg){:height="400px"}
 
 
 ## Features
