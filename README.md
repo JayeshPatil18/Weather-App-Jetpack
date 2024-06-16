@@ -43,32 +43,32 @@ To run the Jetpack Compose Android app, follow these steps:
    git clone https://github.com/your-username/your-project.git
 
 
-2. ## Install Dependencies
+2. **Install Dependencies**
 
-Open a terminal in the project directory and run:
+  Open a terminal in the project directory and run:
+  
+  ```bash
+  ./gradlew build
+  ```
 
-```bash
-./gradlew build
-```
+3. **Connect Your Device**
 
-3. ## Connect Your Device
+  ### For Physical Device
+  
+  1. Enable `Developer Options` and `USB Debugging` on your Android device.
+     - Go to `Settings` > `About phone`.
+     - Tap on `Build number` multiple times until it says you are now a developer.
+     - Go back to `Settings` > `Developer options`.
+     - Enable `USB debugging`.
 
-### For Physical Device
+  2. Connect your device to your computer via USB.
 
-1. Enable `Developer Options` and `USB Debugging` on your Android device.
-   - Go to `Settings` > `About phone`.
-   - Tap on `Build number` multiple times until it says you are now a developer.
-   - Go back to `Settings` > `Developer options`.
-   - Enable `USB debugging`.
-
-2. Connect your device to your computer via USB.
-
-### For Virtual Device
-
-1. Open Android Studio.
-2. Go to `Tools` > `AVD Manager`.
-3. Click on `Create Virtual Device`.
-4. Choose a hardware profile and click `Next`.
-5. Select a system image (Android version) and click `Next`.
-6. Customize the virtual device configuration as needed (e.g., RAM size, VM heap size) and click `Finish`.
-7. Start the virtual device by clicking the `Play` button next to the device name in the AVD Manager.
+  ### For Virtual Device
+  
+  1. Open Android Studio.
+  2. Go to `Tools` > `AVD Manager`.
+  3. Click on `Create Virtual Device`.
+  4. Choose a hardware profile and click `Next`.
+  5. Select a system image (Android version) and click `Next`.
+  6. Customize the virtual device configuration as needed (e.g., RAM size, VM heap size) and click `Finish`.
+  7. Start the virtual device by clicking the `Play` button next to the device name in the AVD Manager.
