@@ -41,7 +41,7 @@ To run the Jetpack Compose Android app, follow these steps:
 1. **Clone the Project:**
    ```bash
    git clone https://github.com/JayeshPatil18/Weather-App-Jetpack.git
-
+   ```
 
 2. **Install Dependencies**    
     ```bash
