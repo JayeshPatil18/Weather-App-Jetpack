@@ -2,6 +2,7 @@
   <h1>Weather App - Jetpack Compose 🌦️</h1>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-left: 10px;">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-left: 10px;">
+  <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-00D0FF?style=for-the-badge&logo=retrofit&logoColor=white" style="margin-left: 10px;">
   <a href="https://github.com/JayeshPatil18/Weather-App-Jetpack">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin-left: 10px;">
   </a>
@@ -12,27 +13,24 @@ Welcome to **Weather App - Jetpack Compose**, a modern Android application built
 
 </br>
 
-*Available on Play Store.* [Click here](https://play.google.com/store/apps/details?id=com.msbteapp.msbtewallah)
+*Available Soon on Play Store.*
 
-![Available](https://github.com/JayeshPatil18/MSBTE-Aspirants/blob/master/msbte-aspirants.png)
+![Available](https://github.com/JayeshPatil18/Weather-App-Jetpack/blob/master/weather-app.jpg)
 
-## Description
-
-**MSBTE Aspirants** is made to help MSBTE I Scheme Diploma students by providing important study material that is much needed to study diploma courses in Engineering and Technology diploma of MSBTE to score good marks in diploma semester exams. This App will provide you books, notes, model question papers, solved lab manuals, and many more for MSBTE I Scheme.
 
 ## Features
 
-- **Study Material**: Access notes, books, and previous year question papers.
-- **Solved Academic Manuals**: Get solutions to academic manuals.
-- **Official MSBTE Website**: Quick access to the official MSBTE website.
-- **Latest News Updates**: Stay updated with the latest news and posts.
+- **Real-time Weather Updates**: Get up-to-date weather information based on your location search.
+- **Detailed Weather Information**: View details such as humidity, wind speed, UV index, and more.
+- **Search Functionality**: Easily search for weather updates by entering the city name.
 
 ## Technology Used
 
-- **Android**: For a native mobile application.
-- **Java**: For application logic and development.
-- **XML**: For designing user interfaces.
-- **Firebase**: Ensuring robust and scalable backend services including authentication, database, and cloud storage.
+- **Android**: Built using modern Android development practices.
+- **Jetpack Compose**: For building reactive and composable UIs.
+- **Kotlin**: Programming language for Android app development.
+- **Retrofit**: HTTP client for making network requests to WeatherAPI.com.
+- **WeatherAPI.com**: Provides weather data including current weather, forecasts, and more.
 
 
 ### Key Components:
