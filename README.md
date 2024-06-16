@@ -34,22 +34,6 @@ Welcome to **Weather App - Jetpack Compose**, a modern Android application built
 - **WeatherAPI.com**: Provides weather data including current weather, forecasts, and more.
 
 
-### Key Components:
-
-- **`build.gradle`**: Configuration file for Gradle build system.
-- **`settings.gradle`**: Settings file that includes all modules in the project.
-- **`AndroidManifest.xml`**: Describes the fundamental characteristics of the app and defines each of its components.
-- **`java/`**: Contains Java (or Kotlin) source code for the app.
-- **`res/`**: Contains resources used by the app such as images, layouts, strings, and styles.
-- **`drawable/`**: Stores drawable resources like images and XML drawables.
-- **`layout/`**: Contains XML files that define the layout structure of activities and fragments.
-- **`mipmap/`**: Contains launcher icons for different densities.
-- **`values/`**: Contains XML files for various values such as strings, styles, dimensions, colors, and more.
-- **`test/`**: Contains test code for the app, typically used for unit tests.
-
-This structure provides a basic overview of how an Android project is organized, with directories for source code, resources, tests, and configuration files. Adjustments can be made based on specific project requirements or additional modules included in the project.
-
-
 ## Running the Jetpack Compose Android App
 
 To run the Jetpack Compose Android app, follow these steps:
