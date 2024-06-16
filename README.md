@@ -1,5 +1,6 @@
 <div align="left">
   <h1>Weather App - Jetpack Compose 🌦️</h1>
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=jetpack-compose&logoColor=white" style="margin-bottom: 10px;">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-left: 10px;">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-left: 10px;">
   <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-00D0FF?style=for-the-badge&logo=retrofit&logoColor=white" style="margin-left: 10px;">
@@ -49,44 +50,16 @@ Welcome to **Weather App - Jetpack Compose**, a modern Android application built
 This structure provides a basic overview of how an Android project is organized, with directories for source code, resources, tests, and configuration files. Adjustments can be made based on specific project requirements or additional modules included in the project.
 
 
-## Getting Started
+## Running the Jetpack Compose Android App
 
-To get started with **MSBTE Aspirants**, follow these steps:
+To run the Jetpack Compose Android app, follow these steps:
 
-1. **Clone the repository**:
+1. **Clone the Project:**
    ```bash
-   git clone https://github.com/JayeshPatil18/MSBTE-Aspirants.git
-   
-## Install Android Studio
-
-Download and install [Android Studio](https://developer.android.com/studio). Follow the installation instructions for your operating system.
-
-## Set up Android SDK
-
-1. Open Android Studio.
-2. Navigate to `File > Settings > Appearance & Behavior > System Settings > Android SDK`.
-3. **SDK Platforms tab:**
-   - Ensure that `Android 10 (Q)` is checked or installed.
-   
-4. **SDK Tools tab:**
-   - Install the latest version of `Android SDK Build-Tools`.
-
-## Set up Android SDK
-
-1. Open Android Studio.
-2. Go to `File > Settings > Appearance & Behavior > System Settings > Android SDK`.
-3. **SDK Platforms tab**:
-   - Ensure that `Android 10 (Q)` is checked or installed.
-
-4. **SDK Tools tab**:
-   - Install the latest version of `Android SDK Build-Tools`.
-
-## Install Java Development Kit (JDK)
-
-Ensure you have JDK 8 or higher installed. You can download it from [Oracle's website](https://www.oracle.com/java/technologies/javase-downloads.html).
+   git clone https://github.com/your-username/your-project.git
 
 
-## Install Dependencies
+2. ## Install Dependencies
 
 Open a terminal in the project directory and run:
 
@@ -94,7 +67,7 @@ Open a terminal in the project directory and run:
 ./gradlew build
 ```
 
-## Connect Your Device
+3. ## Connect Your Device
 
 ### For Physical Device
 
